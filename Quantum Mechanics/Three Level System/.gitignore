@@ -1,3 +1,6 @@
+## Directories
+**bibliography/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -20,6 +23,14 @@
 *.ilg
 *.ind
 
+# image files
+*.png
+*.jpeg
+*.jpg
+*.bitmap
+
+# git ignore
+.gitignore
+
 # But not these files.
-!.gitignore
 !.pdf
