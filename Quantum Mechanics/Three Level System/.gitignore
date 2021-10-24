@@ -1,6 +1,10 @@
 ## Directories
 **bibliography/
 
+# checkpoints jupyter notebook
+.ipynb_checkpoints
+*-checkpoint.ypnb
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
